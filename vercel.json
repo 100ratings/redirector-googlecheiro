@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "googlecheiro.com" }],
+      "destination": "https://gooqlc.com/3886",
+      "permanent": true
+    }
+  ]
+}
