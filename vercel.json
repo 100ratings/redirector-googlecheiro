@@ -2,7 +2,23 @@
   "redirects": [
     {
       "source": "/",
-      "has": [{ "type": "host", "value": "googlecheiro.com" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "googlecheiro.com"
+        }
+      ],
+      "destination": "https://gooqlc.com/3886",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.googlecheiro.com"
+        }
+      ],
       "destination": "https://gooqlc.com/3886",
       "permanent": true
     }
